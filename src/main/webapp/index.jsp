@@ -105,7 +105,7 @@ http://www.templatemo.com/tm-498-stimulus
                               <p class="color-yellow">AWS SOLUTION ARCHITECT/DEVOPS ENGINEER</p>
                          </div>
                          <div class="wow fadeInUp" data-wow-delay="0.8s">
-                              <p>Worked on AWS Cloud platform and its features which includes EC2, VPC, EBS, AMI, SNS, RDS, EBS, Cloud Watch, lambda, Auto scaling, Cloud Front, IAM, S3, Route53, Acm.</p>
+                              <p>work in fertiliser and its features which includes EC2, VPC, EBS, AMI, SNS, RDS, EBS, Cloud Watch, lambda, Auto scaling, Cloud Front, IAM, S3, Route53, Acm.</p>
                               <p>Extensively worked with Version Control System GIT, Extensively worked with automation tools like Jenkins to implement the End-to End Automation.Expertise in using builds tools like MAVEN for the building of deployable artifacts such as war & ear from source code. Application Deployments & Environment configuration using Ansible
 </p>
                          </div>
